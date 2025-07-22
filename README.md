@@ -1,9 +1,8 @@
-
 # Olá! 🖖
 
 
 Sou o William — desenvolvedor backend focado em **Java**, **Ecossistema Spring**, **Oracle**, **MySQL** e **Docker**.  
-Sou formado em Análise e Desenvolvimento de Sistemas, com MBA de especialista em Gestão de Projetos e Processos.
+Sou formado em Análise e Desenvolvimento de Sistemas, com MBA de especialista em Gestão de Projetos e Processos.  
 Atualmente, estudo para a certificação **OCP Java 17** e estou montando um portfólio profissional com projetos modernos, testados e documentados.
 
 ---
@@ -11,6 +10,10 @@ Atualmente, estudo para a certificação **OCP Java 17** e estou montando um por
 ## 🚀 Tecnologias utilizadas nos projetos e que trabalho no dia-a-dia
 
 <div style="display: inline_block">
+  <img align="center" alt="html5" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="css3" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="javascript" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="angularjs" height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Docker" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -47,13 +50,5 @@ Todos com:
 - ✉️ willmeidiaz@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/williamalmeidadias)  
 - 🚀 Em breve: meu portfólio no GitHub Pages
-
----
-
-### 👀 Curiosidades
-
-- 🎯 Estudando para certificação OCP Java 17
-- 🧪 Gosto de escrever testes desde o início do projeto
-- 🌱 Focado em construir APIs REST bem estruturadas e seguras
 
 ---
