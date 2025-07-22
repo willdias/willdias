@@ -2,12 +2,13 @@
 
 # Olá! 👋
 
-Sou o William — desenvolvedor backend focado em **Java**, **Spring Boot**, **MySQL** e **Docker**.  
+Sou o William — desenvolvedor backend focado em **Java**, **Ecossistema Spring**, **Oracle**, **MySQL** e **Docker**.  
+Sou formado em Análise e Desenvolvimento de Sistemas, com MBA de especialista em Gestão de Projetos e Processos.
 Atualmente, estudo para a certificação **OCP Java 17** e estou montando um portfólio profissional com projetos modernos, testados e documentados.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas nos projetos e que trabalho no dia-a-dia
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
