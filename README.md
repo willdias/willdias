@@ -1,6 +1,5 @@
-<img align="right" height="180em" src="https://avatars.githubusercontent.com/u/37801622?v=4"/>
 
-# Olá! 👋
+# Olá! 🖖🏼
 
 Sou o William — desenvolvedor backend focado em **Java**, **Ecossistema Spring**, **Oracle**, **MySQL** e **Docker**.  
 Sou formado em Análise e Desenvolvimento de Sistemas, com MBA de especialista em Gestão de Projetos e Processos.
