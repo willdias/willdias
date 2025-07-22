@@ -1,4 +1,4 @@
-<img align="right" height="180em" src="https://avatars.githubusercontent.com/u/686915?v=4"/>
+<img align="right" height="180em" src="https://avatars.githubusercontent.com/u/37801622?v=4"/>
 
 # Olá! 👋
 
