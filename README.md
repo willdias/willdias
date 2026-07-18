@@ -1,9 +1,11 @@
 # Olá! 🖖
 
 
-Sou o William — desenvolvedor backend focado em **Java**, **Ecossistema Spring**, **Oracle**, **MySQL** e **Docker**.  
-Sou formado em Análise e Desenvolvimento de Sistemas, com MBA de especialista em Gestão de Projetos e Processos.  
-Atualmente, estudo para a certificação **OCP Java 17** e estou montando um portfólio profissional com projetos modernos, testados e documentados.
+Sou o William — Sou desenvolvedor Java com mais de 8 anos de experiência no desenvolvimento de aplicações corporativas, atuando principalmente no backend com Java, Spring Boot, Spring Data JPA, Spring Security, APIs REST e bancos de dados relacionais. Tenho experiência na construção e manutenção de microsserviços, autenticação com JWT, integrações entre sistemas e desenvolvimento de soluções escaláveis e de alta disponibilidade.
+
+Também possuo experiência no desenvolvimento de aplicações frontend utilizando AngularJS, participando da criação e manutenção de interfaces, consumo de APIs REST, implementação de regras de negócio no cliente, formulários, validações, componentes, integração com DataTables, Bootstrap e otimização da experiência do usuário. Essa vivência me permite compreender a aplicação de ponta a ponta e colaborar de forma eficiente entre as equipes de frontend e backend.
+
+Tenho experiência com Git, GitHub, GitHub Copilot, RabbitMQ, Docker e metodologias ágeis, sempre buscando desenvolver código limpo, bem estruturado e de fácil manutenção. Gosto de aprender novas tecnologias e de participar da evolução contínua das soluções, contribuindo tanto tecnicamente quanto na resolução de problemas complexos e na melhoria dos processos de desenvolvimento.
 
 ---
 
